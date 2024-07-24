@@ -32,7 +32,7 @@ def getNeurosciencePassage():
     weeks; thus, other mechanisms also must be involved.
     N-methyl-D-aspartate (NMDA) glutamate receptor
     antagonists selectively block the development of sensitization to psychomotor stimulants, suggesting a role
-    for brain glutamate systems and specifi c glutamate
+    for brain glutamate systems and specific glutamate
     receptors in sensitization (Koob and Le Moal, 2001)."""
 
 def getHistoryPassage():
@@ -51,8 +51,7 @@ The baby boom also gave the nation’s educational
 system a boost. Postwar middle-class parents, America’s
 first college-educated generation, placed a high value
 on education. Suburban parents approved 90 percent
-of school bond issues during the 1950s. By 1970, school
-expenditures accounted for 7.2 percent of the gross
+of school bond issues during the 1950s. By 1970, school expenditures accounted for 7.2 percent of the gross
 national product, double the 1950 level. In the 1960s,
 the baby boom generation swelled college enrollments.
 State university systems grew in tandem: the pioneering University of California, University of Wisconsin,
